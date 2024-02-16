@@ -1,0 +1,16 @@
+{
+  "anthropic": {
+    "access_key": "anthropic",
+    "secret_key": "ADD YOUR KEY"
+  },
+  "unsplash": {
+    "access_key": "unsplash",
+    "secret_key": "ADD YOUR KEY"
+  },
+  "aws": {
+    "access_key": "ADD ACCESS KEY",
+    "secret_key": "ADD SECRET",
+    "aws_region":"REGION"
+  }
+}
+
